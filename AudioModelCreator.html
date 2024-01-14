@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Creación de modelo con aprendizaje por transferencia con YAMNet</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis"></script>
+</head>
+
+<body>
+  <h1>Creación de modelo con aprendizaje por transferencia con YAMNet</h1>
+
+  <section>
+
+    <div class="ui-div">
+      <button class="ui-btn" id="createAndTrainBtn">Create and Train</button>
+      <button class="ui-btn" id="loadModelBtn">Load Model</button>
+      <button class="ui-btn" id="testModelBtn">Test Model</button>
+    </div>
+    <div class="ui-div">
+      <button class="ui-btn" id="micStartBtn">Start Mic.</button>
+      <button class="ui-btn" id="micStopBtn">Stop Mic.</button>
+    </div>
+
+    <div class="ui-div">
+      <button class="ui-btn" id="recAudioBtn">Record 5 sec of noise.</button>
+    </div>
+
+    <div class="ui-div">
+      <audio id="audioPlayer" controls="controls" src=""></audio>
+    </div>
+  </section>
+
+  <section>
+    <button id="move" onclick="location.href='HandClassifierCreator.html'">Crear modelos de gestos</button>
+    <button id="move2" onclick="location.href='index.html'">Probar modelos</button>
+  </section>  
+
+  <script src="AudioModelCreator.js"></script>
+</body>
+
+</html>

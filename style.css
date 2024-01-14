@@ -1,0 +1,38 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+  }
+  
+  h1 {
+    font-style: italic;
+    color: #ff6f00;
+  }
+  h2 {
+    font-style: italic;
+    color: #ff6f00;
+  }
+
+  .flipHorizontal {
+    transform: rotateY(180deg);
+  }
+  
+#canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+
+  .ui-div {
+    display: flex;
+    padding: 15px;
+  }
+
+  .ui-btn {
+    margin: 4px;
+    min-height: 32px;
+  }
+  
+  

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Creación de Modelo KNN para clasificación de poses de manos</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+  
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/knn-classifier"></script>
+  <script src="https://unpkg.com/@tensorflow-models/handpose@0.0.6/dist/handpose.js"></script>
+</head>
+
+<body>
+  <h1>Creación de Modelo KNN para clasificación de poses de manos</h1>
+
+  <section>
+    <div>
+      <canvas id="canvas" width="256" height="256"> </canvas>
+      <video
+        playsinline
+        muted
+        id="webcam"
+        width="256px"
+        height="256px"
+        class="flipHorizontal"
+      ></video>
+    </div>
+  </section>
+
+
+  <section>
+
+    <div class="ui-div">
+      <button class="ui-btn" id="createAndTrainBtn">Create and Train</button>
+      <button class="ui-btn" id="loadModelBtn">Load Model</button>
+      <button class="ui-btn" id="testModelBtn">Test Model</button>
+      <button class="ui-btn" id="saveBtn">Save Model</button>
+    </div>
+    <div class="ui-div">
+      <button class="ui-btn" id="gesture1Btn">Take Actual Shot for Gesture 1.</button>
+      <button class="ui-btn" id="gesture2Btn">Take Actual Shot for Gesture 2.</button>
+      <button class="ui-btn" id="gesture3Btn">Take Actual Shot for Gesture 3.</button>
+      <button class="ui-btn" id="gesture4Btn">Take Actual Shot for Gesture 4.</button>
+    </div>
+  </section>
+
+  <section>
+    <h2 id="message"></h2>
+    <h3>
+      Crea el modelo y pruébalo aquí
+    </h3>
+  </section>
+
+  <section>
+    <button id="move" onclick="location.href='AudioModelCreator.html'">Crear modelos de audio</button>
+    <button id="move2" onclick="location.href='index.html'">Probar modelos</button>
+  </section>  
+
+  <script src="HandClassifierCreator.js"></script>
+</body>
+
+</html>

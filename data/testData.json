@@ -1,0 +1,248 @@
+[
+	{
+		"fileName": "background_noise/Track 159 (consolidated).wav",
+		"className": "background_noise",
+		"classNumber": 0,
+		"fold": "5"
+	},
+	{
+		"fileName": "background_noise/Track 161 (consolidated).wav",
+		"className": "background_noise",
+		"classNumber": 0,
+		"fold": "5"
+	},
+	{
+		"fileName": "background_noise/Track 163 (consolidated).wav",
+		"className": "background_noise",
+		"classNumber": 0,
+		"fold": "5"
+	},
+	{
+		"fileName": "background_noise/Track 165 (consolidated).wav",
+		"className": "background_noise",
+		"classNumber": 0,
+		"fold": "5"
+	},
+	{
+		"fileName": "background_noise/Track 167 (consolidated).wav",
+		"className": "background_noise",
+		"classNumber": 0,
+		"fold": "5"
+	},
+	{
+		"fileName": "background_noise/Track 169 (consolidated).wav",
+		"className": "background_noise",
+		"classNumber": 0,
+		"fold": "5"
+	},
+	{
+		"fileName": "background_noise/Track 171 (consolidated).wav",
+		"className": "background_noise",
+		"classNumber": 0,
+		"fold": "5"
+	},
+	{
+		"fileName": "background_noise/Track 173 (consolidated).wav",
+		"className": "background_noise",
+		"classNumber": 0,
+		"fold": "5"
+	},
+	{
+		"fileName": "background_noise/Track 175 (consolidated).wav",
+		"className": "background_noise",
+		"classNumber": 0,
+		"fold": "5"
+	},
+	{
+		"fileName": "clock_alarm/5-210612-A-37.wav",
+		"className": "clock_alarm",
+		"classNumber": 1,
+		"fold": "5"
+	},
+	{
+		"fileName": "clock_alarm/5-211408-A-37.wav",
+		"className": "clock_alarm",
+		"classNumber": 1,
+		"fold": "5"
+	},
+	{
+		"fileName": "clock_alarm/5-219242-A-37.wav",
+		"className": "clock_alarm",
+		"classNumber": 1,
+		"fold": "5"
+	},
+	{
+		"fileName": "clock_alarm/5-219242-B-37.wav",
+		"className": "clock_alarm",
+		"classNumber": 1,
+		"fold": "5"
+	},
+	{
+		"fileName": "clock_alarm/5-223176-A-37.wav",
+		"className": "clock_alarm",
+		"classNumber": 1,
+		"fold": "5"
+	},
+	{
+		"fileName": "clock_alarm/5-233645-A-37.wav",
+		"className": "clock_alarm",
+		"classNumber": 1,
+		"fold": "5"
+	},
+	{
+		"fileName": "clock_alarm/5-234247-A-37.wav",
+		"className": "clock_alarm",
+		"classNumber": 1,
+		"fold": "5"
+	},
+	{
+		"fileName": "clock_alarm/5-250629-A-37.wav",
+		"className": "clock_alarm",
+		"classNumber": 1,
+		"fold": "5"
+	},
+	{
+		"fileName": "crying_baby/5-151085-A-20.wav",
+		"className": "crying_baby",
+		"classNumber": 2,
+		"fold": "5"
+	},
+	{
+		"fileName": "crying_baby/5-198411-A-20.wav",
+		"className": "crying_baby",
+		"classNumber": 2,
+		"fold": "5"
+	},
+	{
+		"fileName": "crying_baby/5-198411-B-20.wav",
+		"className": "crying_baby",
+		"classNumber": 2,
+		"fold": "5"
+	},
+	{
+		"fileName": "crying_baby/5-198411-C-20.wav",
+		"className": "crying_baby",
+		"classNumber": 2,
+		"fold": "5"
+	},
+	{
+		"fileName": "crying_baby/5-198411-D-20.wav",
+		"className": "crying_baby",
+		"classNumber": 2,
+		"fold": "5"
+	},
+	{
+		"fileName": "crying_baby/5-198411-E-20.wav",
+		"className": "crying_baby",
+		"classNumber": 2,
+		"fold": "5"
+	},
+	{
+		"fileName": "crying_baby/5-198411-F-20.wav",
+		"className": "crying_baby",
+		"classNumber": 2,
+		"fold": "5"
+	},
+	{
+		"fileName": "crying_baby/5-198411-G-20.wav",
+		"className": "crying_baby",
+		"classNumber": 2,
+		"fold": "5"
+	},
+	{
+		"fileName": "toilet_flush/5-156698-A-18.wav",
+		"className": "toilet_flush",
+		"classNumber": 3,
+		"fold": "5"
+	},
+	{
+		"fileName": "toilet_flush/5-177034-A-18.wav",
+		"className": "toilet_flush",
+		"classNumber": 3,
+		"fold": "5"
+	},
+	{
+		"fileName": "toilet_flush/5-182404-A-18.wav",
+		"className": "toilet_flush",
+		"classNumber": 3,
+		"fold": "5"
+	},
+	{
+		"fileName": "toilet_flush/5-185908-A-18.wav",
+		"className": "toilet_flush",
+		"classNumber": 3,
+		"fold": "5"
+	},
+	{
+		"fileName": "toilet_flush/5-197913-A-18.wav",
+		"className": "toilet_flush",
+		"classNumber": 3,
+		"fold": "5"
+	},
+	{
+		"fileName": "toilet_flush/5-201664-A-18.wav",
+		"className": "toilet_flush",
+		"classNumber": 3,
+		"fold": "5"
+	},
+	{
+		"fileName": "toilet_flush/5-202020-A-18.wav",
+		"className": "toilet_flush",
+		"classNumber": 3,
+		"fold": "5"
+	},
+	{
+		"fileName": "toilet_flush/5-202540-A-18.wav",
+		"className": "toilet_flush",
+		"classNumber": 3,
+		"fold": "5"
+	},
+	{
+		"fileName": "water_drops/5-241846-A-15.wav",
+		"className": "water_drops",
+		"classNumber": 4,
+		"fold": "5"
+	},
+	{
+		"fileName": "water_drops/5-254832-A-15.wav",
+		"className": "water_drops",
+		"classNumber": 4,
+		"fold": "5"
+	},
+	{
+		"fileName": "water_drops/5-254832-B-15.wav",
+		"className": "water_drops",
+		"classNumber": 4,
+		"fold": "5"
+	},
+	{
+		"fileName": "water_drops/5-257349-A-15.wav",
+		"className": "water_drops",
+		"classNumber": 4,
+		"fold": "5"
+	},
+	{
+		"fileName": "water_drops/5-259180-A-15.wav",
+		"className": "water_drops",
+		"classNumber": 4,
+		"fold": "5"
+	},
+	{
+		"fileName": "water_drops/5-261433-A-15.wav",
+		"className": "water_drops",
+		"classNumber": 4,
+		"fold": "5"
+	},
+	{
+		"fileName": "water_drops/5-261439-A-15.wav",
+		"className": "water_drops",
+		"classNumber": 4,
+		"fold": "5"
+	},
+	{
+		"fileName": "water_drops/5-262641-A-15.wav",
+		"className": "water_drops",
+		"classNumber": 4,
+		"fold": "5"
+	}
+]
